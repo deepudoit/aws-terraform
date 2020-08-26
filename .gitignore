@@ -1,1 +1,6 @@
-/main.tf
+.idea
+.terraform
+*.tfstate
+*.tfstate.backup
+
+
